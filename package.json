@@ -1,0 +1,25 @@
+{
+  "name": "pong-3d",
+  "version": "1.0.0",
+  "description": "Pong 3D - Created for a codepen challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarceyLloyd/Pong3D.git"
+  },
+  "keywords": [
+    "pong",
+    "3d",
+    "pong",
+    "3d"
+  ],
+  "author": "darcey.lloyd@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarceyLloyd/Pong3D/issues"
+  },
+  "homepage": "https://github.com/DarceyLloyd/Pong3D#readme"
+}
