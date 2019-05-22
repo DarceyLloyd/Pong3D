@@ -30,6 +30,15 @@
 
     <script src="includes/js/app.js?v=<?php echo(rand(0, 9999999)); ?>"></script>
     <script src="includes/js/global.js?v=<?php echo(rand(0, 9999999)); ?>"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2426360-16"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());    
+        gtag('config', 'UA-2426360-16');
+    </script>
+
 </head>
 
 <body>
